@@ -1,4 +1,5 @@
 # data_visualisation
+DataVisualix is a comprehensive data analysis project that focuses on using various types of graphs, including pie charts, bar charts, and more, to visually represent and analyze data. The project aims to provide insights, trends, and patterns that might not be immediately obvious from raw data. Whether you're a business analyst, researcher, or anyone dealing with data-driven decisions, DataVisualix offers a user-friendly platform to gain deeper insights from your data.
 ## Tech Stacks
 1. `@nivo/line`
 2. `@nivo/pie`
