@@ -19,7 +19,6 @@ DataVisualix is a comprehensive data analysis project that focuses on using vari
 2. `npm install`
 3. `npm run dev`
 ## Screenshots
-![image](https://github.com/dishu987/data_visualisation/assets/95860279/05dd4bde-8924-4355-95c2-785dfd4d4386)
 
 ![image](https://github.com/dishu987/data_visualisation/assets/95860279/bce562f7-6bba-4d3c-a614-9cdeb56e863d)
 
