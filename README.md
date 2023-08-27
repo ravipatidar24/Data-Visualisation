@@ -18,4 +18,3 @@ DataVisualix is a comprehensive data analysis project that focuses on using vari
 1. `cd frontend/app`
 2. `npm install`
 3. `npm run dev`
-## Screenshots
